@@ -3,7 +3,7 @@
 
   
 
-![App Screenshot](https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png)
+![App Screenshot](https://github.com/serge-eric-kalaga/simple_whatsapp_clone/blob/master/whatsap_clone.jpg)
 
 ## Tech Stack  
 
@@ -18,7 +18,7 @@ This is a simple example of a "Whatsapp" clone. You can customize it according t
 Clone the project  
 
 ~~~bash  
-  git clone https://link-to-project
+  git clone https://github.com/serge-eric-kalaga/simple_whatsapp_clone.git
 ~~~
 
 Go to the project directory  
